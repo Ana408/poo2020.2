@@ -6,4 +6,4 @@
 
 4)Com a dificuldade de agregação entre classes e misturar os atributos dentro dos classes, no começo ocasionou os erros mas nada que uma atenção a mais em questão de nomes de atributos e questão de onde usar o this. ou other. Com essas praticas a linguagem já está fluindo aos poucos não travei mais na estrutura já foi tranquilo mesmo tendo agregação entre 2 classes não tive problemas mais com a estrutura do código
 
-5)12 horas , entre estudos de como colocar em prática os requitos, práticas e correções.
+5)12 horas , entre estudos de como colocar em prática os requisitos, práticas e correções.
