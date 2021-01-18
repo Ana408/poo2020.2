@@ -1,4 +1,4 @@
-1) Fiz a atividade do  junkfood , com as funcionalidades de comprar, depositar, alteral, remover e obter o troco.
+1) Fiz a atividade do  junkfood , com as funcionalidades de comprar, depositar, alterar, remover e obter o troco.
 
 2) Tive um problema de atraso com as atividades, mas tive que correr contra o tempo assistir as aulas novamente e pesquisei sobre arrayList , assistir video aulas no youtube para ajudar na hora da prática . 
 
