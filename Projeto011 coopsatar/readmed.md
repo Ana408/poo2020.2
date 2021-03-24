@@ -4,7 +4,7 @@ copp.java = main
 
 Diretório coop = Classes
 
-1) Como eu fiz ?
+1)Como eu fiz ?
 Utilizei como a atividade favoritos como os requisitos citava, fiz a herança em todas as classes e consegui o objetivo que era adicionar favoritos ou removê-los.
 
 2)Com quem eu fiz ? E como fiz ?
