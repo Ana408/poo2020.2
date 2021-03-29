@@ -2,7 +2,7 @@ PROJETO 13 - Cadrastro
 
 principal.java = main
 
-1) Como eu fiz ?
+1)Como eu fiz ?
 Utilizei como a conceito,base e a lógica da atividade favoritos e ContatoStar, e com foco no diagrama e as explicações dos requisitos.
 
 2)Com quem eu fiz ?
