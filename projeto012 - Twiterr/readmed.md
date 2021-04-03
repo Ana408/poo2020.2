@@ -1,6 +1,6 @@
 PROJETO 12 - Twiterr
 
-1) Como eu fiz ?
+1)Como eu fiz ?
 Utilizei como a conceito,base e a lógica da atividade mensagens que foi feito em aula e com foco no diagrama.
 
 2)Com quem eu fiz ?
